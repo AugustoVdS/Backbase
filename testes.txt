@@ -1,0 +1,2 @@
+Utilizamos 50 voluntários para testar o aplicativo e site, e obtivemos uma taxa de sucesso de 89%
+precisamos aprimorar o sistema de gps

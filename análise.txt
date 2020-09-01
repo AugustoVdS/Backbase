@@ -1,0 +1,3 @@
+-O sistema terá que ter acesso a localização de gps do usuario durante o uso do app. 
+-Calcular o preço da viagem dependendo da distancia e de quantas pessoas estão na viagem.
+-Sistema deve alocar o carro voador mais próximo do usuário

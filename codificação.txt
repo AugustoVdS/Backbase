@@ -1,0 +1,2 @@
+Para o Site serão utilizadas Html, Css e JavaScript pois precisamos de um site simples e dinâmico.
+Para o app de celular, utilizaremos Kotlin visto que é uma linguagem mais limpa e fácil de se programar
